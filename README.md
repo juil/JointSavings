@@ -6,7 +6,7 @@ Joint savings smart contract.
 
 ### Solidity
 
-`joint_savings.sol` deployed in [Remix IDE](remix.ethereum.org).
+`joint_savings.sol` deployed in [Remix IDE](https://remix.ethereum.org).
 
 Solidity Compiler: 
 `pragma solidity ^0.8.0`
