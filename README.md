@@ -14,6 +14,10 @@ Solidity Compiler:
 Environment: 
 `Remix VM (Merge)`
 
+### Example
+
+See [Execution_Results/example.md](Execution_Results/example.md) for example of JointSavings smart contract deployed in Remix VM.
+
 ### Starter Code
 
 *Starter code provided by edX.*
