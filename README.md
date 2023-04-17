@@ -16,7 +16,7 @@ Environment:
 
 ### Example
 
-See [Execution_Results/example.md](Execution_Results/example.md) for example of JointSavings smart contract deployed in Remix VM.
+See [Execution_Results/readme.md](Execution_Results/readme.md) for example of JointSavings smart contract deployed in Remix VM.
 
 ### Starter Code
 
